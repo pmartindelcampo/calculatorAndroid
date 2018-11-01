@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="number_0" translatable="false">0</string>
+    <string name="number_1" translatable="false">1</string>
+    <string name="number_2" translatable="false">2</string>
+    <string name="number_3" translatable="false">3</string>
+    <string name="number_4" translatable="false">4</string>
+    <string name="number_5" translatable="false">5</string>
+    <string name="number_6" translatable="false">6</string>
+    <string name="number_7" translatable="false">7</string>
+    <string name="number_8" translatable="false">8</string>
+    <string name="number_9" translatable="false">9</string>
+    <string name="comma" translatable="false">.</string>
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+    <string name="op_plus" translatable="false">+</string>
+    <string name="op_minus" translatable="false">-</string>
+    <string name="op_mult" translatable="false">*</string>
+    <string name="op_div" translatable="false">/</string>
+    <string name="op_equals" translatable="false">=</string>
+    <string name="op_xsquared" translatable="false">x²</string>
+    <string name="op_sin">SEN</string>
+    <string name="op_cos">COS</string>
+    <string name="op_tan">TAN</string>
+    <string name="op_pow">POT</string>
+    <string name="op_land_sqrt" translatable="false">√</string>
+    <string name="op_1ByX" translatable="false">1/x</string>
+    <string name="op_Pi" translatable="false">π</string>
+    <string name="op_sqrt">RAIZ</string>
+    <string name="op_porc" translatable="false">%</string>
+    <string name="op_neg" translatable="false">+/-</string>
+    <string name="off">OFF</string>
+    <string name="ctrl_mc" translatable="false">MC</string>
+    <string name="ctrl_mr" translatable="false">MR</string>
+    <string name="ctrl_mplus" translatable="false">M+</string>
+    <string name="ctrl_mminus" translatable="false">M-</string>
+    <string name="ctrl_m" translatable="false">M</string>
+    <string name="ctrl_c" translatable="false">C</string>
+    <string name="ctrl_del" translatable="false">DEL</string>
+    <string name="ctrl_ce" translatable="false">CE</string>
+    <string name="result_ini" translatable="false">0.0</string>
+    <string name="msg_divby0">No es posible dividir entre cero</string>
+    <string name="msg_negsqrt">No existe la raíz cuadrada de un número negativo</string>
+    <string name="msg_operate">Introduce un segundo valor</string>
+    <string name="msg_fail">Operación no válida</string>
+</resources>

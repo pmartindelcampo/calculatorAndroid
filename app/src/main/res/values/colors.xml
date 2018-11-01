@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="colorBgOpButtons">#d32f2f</color>
+    <color name="colorOpButtons">#f57f17</color>
+    <color name="colorOffButton">#64b5f6</color>
+    <color name="colorControlButtons">#3d5afe</color>
+    <color name="tvBgResult">#e0f2f1</color>
+    <color name="tvTextResult">#304ffe</color>
+</resources>

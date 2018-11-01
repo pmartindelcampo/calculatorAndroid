@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="op_pow">POW</string>
+    <string name="op_sqrt">SQRT</string>
+    <string name="off">OFF</string>
+    <string name="op_sin">SIN</string>
+    <string name="op_cos">COS</string>
+    <string name="op_tan">TAN</string>
+    <string name="msg_divby0">Not possible to divide by zero</string>
+    <string name="msg_negsqrt">Doesn´t exist root of a negative number</string>
+    <string name="msg_operate">Introduce a second value</string>
+    <string name="msg_fail">No valid operation</string>
+</resources>
